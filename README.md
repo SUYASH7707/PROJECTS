@@ -17,4 +17,4 @@ thresholding          : Thresholding to get  object of interst
 morpho                : Convolution/Erosion/Dilation
 
 #
-All other files should be RUN in a particular order which generates an output which the other file uses as INPUT.
+all other files should be RUN in a particular order which generates an output which the other file uses as INPUT.
